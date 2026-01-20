@@ -1,5 +1,8 @@
 # DataLens
 
+🔗 Read the full write-up on dev.to:  
+https://dev.to/ertugrulmutlu/datalens-a-read-only-image-dataset-sanity-checker-2do0
+
 **DataLens** is a lightweight, read-only dataset sanity checker for image datasets. It helps you detect silent data quality issues *before* training by scanning images and (optionally) label metadata, then surfacing actionable insights through an interactive Streamlit dashboard and a shareable Markdown report.
 
 > **Philosophy:** Inspect, don’t mutate. DataLens never modifies your dataset.
