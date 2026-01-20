@@ -155,7 +155,13 @@ Common column names are auto-detected.
 * When receiving datasets from external sources
 * When debugging unstable training or strange metrics
 * As a lightweight QA step in ML pipelines
+---
 
+## Links
+
+- **dev.to Article:** https://dev.to/ertugrulmutlu/datalens-a-read-only-image-dataset-sanity-checker-2do0  
+- **LinkedIn:** https://www.linkedin.com/in/ertugrul-mutlu/  
+- **Personal Website:** https://ertugrulmutlu.github.io
 ---
 
 ## License
